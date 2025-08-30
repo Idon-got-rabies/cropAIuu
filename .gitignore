@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pyc
+*.pdb
+*.egg
+*.egg-info/
+dist/
+build/
+*.manifest
+*.spec
+
+# Virtual Environments
+venv/
+.venv/
+env/
+.env/
+ENV/
+
+# IDEs / Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs / Temp
+*.log
+*.tmp
+*.swp
+
+# FastAPI / Uvicorn / Misc
+*.db
+*.sqlite3
+*.pytest_cache/
+__pycache__/
+*.cover
+.coverage
+htmlcov/
